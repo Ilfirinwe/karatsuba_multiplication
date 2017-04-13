@@ -1,0 +1,9 @@
+C:\Users\Игорь\Documents\Visual Studio 2015\Projects\Main\KaratsubaMultiplication\KaratsubaMultiplication.Tests\bin\Debug\KaratsubaMultiplication.Tests.dll
+C:\Users\Игорь\Documents\Visual Studio 2015\Projects\Main\KaratsubaMultiplication\KaratsubaMultiplication.Tests\bin\Debug\KaratsubaMultiplication.Tests.pdb
+C:\Users\Игорь\Documents\Visual Studio 2015\Projects\Main\KaratsubaMultiplication\KaratsubaMultiplication.Tests\bin\Debug\KaratsubaMultiplication.Common.dll
+C:\Users\Игорь\Documents\Visual Studio 2015\Projects\Main\KaratsubaMultiplication\KaratsubaMultiplication.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Игорь\Documents\Visual Studio 2015\Projects\Main\KaratsubaMultiplication\KaratsubaMultiplication.Tests\bin\Debug\KaratsubaMultiplication.Common.pdb
+C:\Users\Игорь\Documents\Visual Studio 2015\Projects\Main\KaratsubaMultiplication\KaratsubaMultiplication.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Игорь\Documents\Visual Studio 2015\Projects\Main\KaratsubaMultiplication\KaratsubaMultiplication.Tests\obj\Debug\KaratsubaMultiplication.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2015\Projects\Main\KaratsubaMultiplication\KaratsubaMultiplication.Tests\obj\Debug\KaratsubaMultiplication.Tests.dll
+C:\Users\Игорь\Documents\Visual Studio 2015\Projects\Main\KaratsubaMultiplication\KaratsubaMultiplication.Tests\obj\Debug\KaratsubaMultiplication.Tests.pdb

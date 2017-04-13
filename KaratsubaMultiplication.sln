@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaratsubaMultiplication", "KaratsubaMultiplication\KaratsubaMultiplication.csproj", "{223815B9-4511-4C7D-A8D8-CE433486D09C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaratsubaMultiplication.Tests", "KaratsubaMultiplication.Tests\KaratsubaMultiplication.Tests.csproj", "{849A791C-50EF-429F-9E82-438020FA3ECC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3DAE8E42-436D-4EF6-B014-EBE7B0A79D5F} = {3DAE8E42-436D-4EF6-B014-EBE7B0A79D5F}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaratsubaMultiplication.Common", "KaratsubaMultiplication.Common\KaratsubaMultiplication.Common.csproj", "{3DAE8E42-436D-4EF6-B014-EBE7B0A79D5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{223815B9-4511-4C7D-A8D8-CE433486D09C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{223815B9-4511-4C7D-A8D8-CE433486D09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{223815B9-4511-4C7D-A8D8-CE433486D09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{223815B9-4511-4C7D-A8D8-CE433486D09C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{849A791C-50EF-429F-9E82-438020FA3ECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{849A791C-50EF-429F-9E82-438020FA3ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{849A791C-50EF-429F-9E82-438020FA3ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{849A791C-50EF-429F-9E82-438020FA3ECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DAE8E42-436D-4EF6-B014-EBE7B0A79D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DAE8E42-436D-4EF6-B014-EBE7B0A79D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DAE8E42-436D-4EF6-B014-EBE7B0A79D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DAE8E42-436D-4EF6-B014-EBE7B0A79D5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

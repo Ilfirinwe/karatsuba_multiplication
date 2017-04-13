@@ -1,0 +1,11 @@
+C:\Users\Игорь\Documents\Visual Studio 2015\Projects\Main\KaratsubaMultiplication\KaratsubaMultiplication\bin\Debug\KaratsubaMultiplication.exe.config
+C:\Users\Игорь\Documents\Visual Studio 2015\Projects\Main\KaratsubaMultiplication\KaratsubaMultiplication\bin\Debug\KaratsubaMultiplication.exe
+C:\Users\Игорь\Documents\Visual Studio 2015\Projects\Main\KaratsubaMultiplication\KaratsubaMultiplication\bin\Debug\KaratsubaMultiplication.pdb
+C:\Users\Игорь\Documents\Visual Studio 2015\Projects\Main\KaratsubaMultiplication\KaratsubaMultiplication\obj\Debug\KaratsubaMultiplication.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2015\Projects\Main\KaratsubaMultiplication\KaratsubaMultiplication\obj\Debug\KaratsubaMultiplication.exe
+C:\Users\Игорь\Documents\Visual Studio 2015\Projects\Main\KaratsubaMultiplication\KaratsubaMultiplication\obj\Debug\KaratsubaMultiplication.pdb
+C:\Users\Игорь\Documents\Visual Studio 2015\Projects\Main\KaratsubaMultiplication\KaratsubaMultiplication\bin\Debug\KaratsubaMultiplication.Common.dll
+C:\Users\Игорь\Documents\Visual Studio 2015\Projects\Main\KaratsubaMultiplication\KaratsubaMultiplication\bin\Debug\KaratsubaMultiplication.Common.pdb
+C:\Users\Игорь\Documents\Repositories\karatsuba_multiplication\KaratsubaMultiplication\bin\Debug\KaratsubaMultiplication.exe.config
+C:\Users\Игорь\Documents\Repositories\karatsuba_multiplication\KaratsubaMultiplication\obj\Debug\KaratsubaMultiplication.exe
+C:\Users\Игорь\Documents\Repositories\karatsuba_multiplication\KaratsubaMultiplication\obj\Debug\KaratsubaMultiplication.pdb
